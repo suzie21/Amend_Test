@@ -1,1 +1,2 @@
 Amend a file
+Ament test
